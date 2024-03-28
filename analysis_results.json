@@ -1,0 +1,204 @@
+{
+    "size_sufficiency": {
+        "total_issues": 1212,
+        "size_concerns_count": 23,
+        "total_unique_users": 22
+    },
+    "speed_performance": {
+        "total_issues": 1212,
+        "speed_concerns_count": 59,
+        "total_unique_users": 54
+    },
+    "accuracy_issues": {
+        "total_issues": 1212,
+        "accuracy_concerns_count": 42,
+        "total_unique_users": 34
+    },
+    "label_analysis": [
+        {
+            "label": "bug-unconfirmed",
+            "count": 267,
+            "unique_users": 233
+        },
+        {
+            "label": "enhancement",
+            "count": 203,
+            "unique_users": 170
+        },
+        {
+            "label": "bug",
+            "count": 43,
+            "unique_users": 38
+        },
+        {
+            "label": "good first issue",
+            "count": 25,
+            "unique_users": 18
+        },
+        {
+            "label": "demo",
+            "count": 13,
+            "unique_users": 7
+        },
+        {
+            "label": "server/webui",
+            "count": 4,
+            "unique_users": 4
+        },
+        {
+            "label": "Vulkan",
+            "count": 3,
+            "unique_users": 3
+        },
+        {
+            "label": "model",
+            "count": 17,
+            "unique_users": 17
+        },
+        {
+            "label": "help wanted",
+            "count": 17,
+            "unique_users": 13
+        },
+        {
+            "label": "examples",
+            "count": 1,
+            "unique_users": 1
+        },
+        {
+            "label": "nix",
+            "count": 4,
+            "unique_users": 3
+        },
+        {
+            "label": "need feedback",
+            "count": 5,
+            "unique_users": 5
+        },
+        {
+            "label": "testing",
+            "count": 3,
+            "unique_users": 1
+        },
+        {
+            "label": "refactoring",
+            "count": 11,
+            "unique_users": 2
+        },
+        {
+            "label": "breaking change",
+            "count": 1,
+            "unique_users": 1
+        },
+        {
+            "label": "Intel GPU",
+            "count": 3,
+            "unique_users": 2
+        },
+        {
+            "label": "research \ud83d\udd2c",
+            "count": 15,
+            "unique_users": 9
+        },
+        {
+            "label": "need more info",
+            "count": 11,
+            "unique_users": 9
+        },
+        {
+            "label": "macos",
+            "count": 4,
+            "unique_users": 4
+        },
+        {
+            "label": "performance",
+            "count": 16,
+            "unique_users": 12
+        },
+        {
+            "label": "high priority",
+            "count": 3,
+            "unique_users": 3
+        },
+        {
+            "label": "invalid",
+            "count": 1,
+            "unique_users": 1
+        },
+        {
+            "label": "Nvidia GPU",
+            "count": 1,
+            "unique_users": 1
+        },
+        {
+            "label": "generation quality",
+            "count": 12,
+            "unique_users": 10
+        },
+        {
+            "label": "AMD GPU",
+            "count": 2,
+            "unique_users": 2
+        },
+        {
+            "label": "build",
+            "count": 10,
+            "unique_users": 9
+        },
+        {
+            "label": "\ud83e\udd99.",
+            "count": 3,
+            "unique_users": 3
+        },
+        {
+            "label": "hardware",
+            "count": 5,
+            "unique_users": 5
+        },
+        {
+            "label": "training",
+            "count": 1,
+            "unique_users": 1
+        },
+        {
+            "label": "wontfix",
+            "count": 1,
+            "unique_users": 1
+        },
+        {
+            "label": "Less than 4 bits",
+            "count": 2,
+            "unique_users": 2
+        },
+        {
+            "label": "threading",
+            "count": 7,
+            "unique_users": 6
+        },
+        {
+            "label": "windows",
+            "count": 4,
+            "unique_users": 4
+        },
+        {
+            "label": "duplicate",
+            "count": 2,
+            "unique_users": 2
+        },
+        {
+            "label": "android",
+            "count": 1,
+            "unique_users": 1
+        },
+        {
+            "label": "question",
+            "count": 4,
+            "unique_users": 4
+        },
+        {
+            "label": "documentation",
+            "count": 1,
+            "unique_users": 1
+        }
+    ]
+}
